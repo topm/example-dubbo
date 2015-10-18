@@ -1,8 +1,8 @@
-# example-dubbo
 关于example-dubbo示例
-执行 mvn install, maven会自动将source install到repository. 
-执行 mvn deploy, maven会自动将source deploy到remote-repository. 
-执行 mvn source:jar, 单独打包源码. 
+
+ 执行 mvn install, maven会自动将source install到repository. 
+ 执行 mvn deploy, maven会自动将source deploy到remote-repository. 
+ 执行 mvn source:jar, 单独打包源码. 
 
 1. 2015-10-15(周四)，构建example-dubbo工程.
 
