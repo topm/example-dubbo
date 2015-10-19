@@ -11,7 +11,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 服务提供者1
+ * 服务提供者
  *
  * @author yangpengfei
  */
